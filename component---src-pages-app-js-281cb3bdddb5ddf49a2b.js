@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[12],{y9VM:function(e,t,n){"use strict";n.r(t);var a=n("q1tI"),l=n.n(a),r=n("YwZP"),u=n("vuEx"),c=function(e){return l.a.createElement("div",null,l.a.createElement("pre",null,JSON.stringify(e,null,2)))};t.default=function(){return l.a.createElement(r.Router,{basepath:"/app"},l.a.createElement(u.default,{path:"/applications/:id"}),l.a.createElement(c,{default:!0}))}}}]);
+//# sourceMappingURL=component---src-pages-app-js-281cb3bdddb5ddf49a2b.js.map
